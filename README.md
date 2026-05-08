@@ -14,7 +14,7 @@ Automobile sales are highly sensitive to both seasonal trends (festive seasons, 
 ### 🖼 Business Cycle Synchronization
 The following visualization illustrates the synchronization between Automobile Sales and Real GDP from 1976 to 2026. By isolating the deviations from the trend, we can observe how the auto industry reacts to broader economic shifts.
 
-![Auto Sales vs GDP Synchronization](BUSINESS_CYCLE_VS_GDP.png)
+![Auto Sales vs GDP Synchronization](BUSINESSCYCLE_VS_GDP.png)
 
 **Statistical Validation:** 
 The analysis yielded a **Correlation Coefficient of 0.4787**, indicating a moderate-to-strong positive synchronization between the two cycles. Significant downturns, particularly around 2008 and 2020, show near-perfect alignment in volatility.
